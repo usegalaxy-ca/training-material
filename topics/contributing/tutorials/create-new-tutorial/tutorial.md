@@ -233,7 +233,7 @@ Once we have the workflows and toy dataset (optionally already on Zenodo), we ca
 
 Writing the tutorial while adding the different tools and their parameters, and following good formatting, can be quite cumbersome. To help in that process, we developed a training development kit available with [Planemo](https://planemo.readthedocs.io/en/latest/index.html). The tool has several commands. But the main one can be used to create the skeleton of a tutorial (folder, well-located, with good structure). It can also take a workflow as input and add it to the `workflows` folder. But more interestingly, the tool can extract from the workflow and add in the `tutorial.md` file the different steps with which tools to run and which parameters to select. If a Zenodo URL is provided, it also creates the `data-library.yaml` file.
 
-This tool can be used via the command-line but also via a [webserver](https://ptdk.apps.galaxyproject.eu/). The webserver can take a public workflow that is available on [usegalaxy.org](https://usegalaxy.org), [usegalaxy.eu](https://usegalaxy.eu) or [usegalaxy.org.au](https://usegalaxy.org.au).
+This tool can be used via the command-line but also via a [webserver](https://ptdk.apps.galaxyproject.eu/). The webserver can take a public workflow that is available on [usegalaxy.org](https://usegalaxy.org), [usegalaxy.eu](https://usegalaxy.eu), [usegalaxy.org.au](https://usegalaxy.org.au) or [usegalaxy.ca](https://usegalaxy.ca).
 
 > <hands-on-title>Create the skeleton of a tutorial using the webserver</hands-on-title>
 >

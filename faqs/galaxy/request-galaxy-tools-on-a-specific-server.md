@@ -13,3 +13,5 @@ To request tools that already exist in the [Galaxy toolshed](https://toolshed.g2
 - *USA - usegalaxy.org* \| [https://github.com/galaxyproject/usegalaxy-tools](https://github.com/galaxyproject/usegalaxy-tools)
 
 - *Australia - usegalaxy.org.au* \| [https://site.usegalaxy.org.au/request/tool](https://site.usegalaxy.org.au/request/tool)
+
+- *Canada - usegalaxy.ca* \| [https://github.com/usegalaxy-ca/usegalaxy-ca-tools](https://github.com/usegalaxy-ca/usegalaxy-ca-tools)

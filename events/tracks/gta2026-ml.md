@@ -7,7 +7,7 @@ description: |
     
     Start with the tutorial at your own pace. If you need support contact us via the Slack Channel [gta_machine-learning](https://gtnsmrgsbord.slack.com/channels/{{page.slack_channel}}).
     
-    🚨 Choose one of the other Galaxy instances - [US/Main](https://usegalaxy.org/), [EU](https://usegalaxy.eu/), [AU](https://usegalaxy.org.au/) - to follow the training.
+    🚨 Choose one of the other Galaxy instances - [US/Main](https://usegalaxy.org/), [EU](https://usegalaxy.eu/), [AU](https://usegalaxy.org.au/), [CA](https://usegalaxy.ca/) - to follow the training.
 
     🚨 The French Galaxy server does not support the Galaxy machine learning tools at the moment. 
     
