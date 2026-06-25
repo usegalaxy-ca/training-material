@@ -9,7 +9,7 @@ contributors:
 ---
 Of course\*!
 
-If your data is not sensitive (i.e. human patient) but just private (sequencing from other animals/bacteria/etc), then it is absolutely ok to use a public galaxy server like usegalaxy.eu, usegalaxy.org, or usegalaxy.ca!
+If your data is not sensitive (i.e. human patient) but just private (sequencing from other animals/bacteria/etc), then it is absolutely ok to use a public galaxy server like usegalaxy.eu or usegalaxy.org!
 
  Data uploaded is private to your account, it isn't available to others publicly. No one will scoop your results, if you use a public galaxy server to analyse your data :)
 
